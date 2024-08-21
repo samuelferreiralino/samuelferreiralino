@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **samuelferreiralino/samuelferreiralino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ac/dc
 - ⚡ Fun fact: ...
--->
+
+## contato com eu
+
+0000112224969xsp@al.educacao.sp.gov.br
